@@ -1,4 +1,7 @@
 ## 欢迎来到我的python学习笔记 GitHub Pages
+[***Jane Eyre***](http://book.douban.com/subject/1141406/) is not just ***Jane Eyre***
+![](http://img3.douban.com/mpic/s1108264.jpg)
+
 [editor on GitHub python](https://github.com/chenleigang/python/edit/master/README.md) </br>
 You can use the [editor on GitHub](https://github.com/chenleigang/python/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
