@@ -1,6 +1,6 @@
 ## 欢迎来到我的python学习笔记 GitHub Pages
 [***python代码托管***](https://github.com/chenleigang/python/) 一些简单的 ***python***学习笔记
-![](http://img3.douban.com/mpic/s1108264.jpg)
+
 
 
 You can use the [editor on GitHub](https://github.com/chenleigang/python/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
